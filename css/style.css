@@ -7740,7 +7740,7 @@ header {
           bottom: 0;
           font-weight: 700 !important;
           font-size: 100px;
-          color: rgba(255, 255, 255, 0.08); }
+          color: rgba(121, 239, 180, 0.25) ! important;}
         .owl-carousel.home-slider .slider-item .slider-text h1 {
           font-size: 55px;
           color: #fff;
